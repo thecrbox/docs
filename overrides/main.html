@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block extrahead %}{{ super() }}
+  <script type="module" src="{{ 'res/improv/launch-button.js' | url }}"></script>
+
+  <script>
+    // show what the SDK is seeing
+    addEventListener('DOMContentLoaded', () => {
+      console.log('[BLE DEBUG]', {
+        isSecureContext: window.isSecureContext,
+        hasBluetooth: 'bluetooth' in navigator,
+        userAgent: navigator.userAgent
+      });
+    });
+  </script> 
+{% endblock %}

@@ -1,6 +1,6 @@
 # thecrbox - air purifier controller
 
-Ready to use, drop-in hardware platform to convert a regular *CR box* to a smart air purifier
+Ready to use, drop-in hardware platform to convert a regular *CR box* to a *smart air purifier*
 
 ![img](res/img/box.jpg){ width="128" }
 ![img](res/img/panels.jpg){ width="128" }

@@ -4,6 +4,7 @@ repo_name: docs
 site_url: https://thecrbox.github.io
 theme:
     name: material
+    custom_dir: overrides
 
 markdown_extensions:
   - attr_list
@@ -12,3 +13,6 @@ markdown_extensions:
 
 plugins:
   - mkdocs-video
+
+extra_javascript:
+  - javascripts/improv-loader.js
