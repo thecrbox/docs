@@ -1,0 +1,5 @@
+site_name: thecrbox
+repo_url: https://github.com/thecrbox/docs
+repo_name: docs
+theme:
+    name: material
