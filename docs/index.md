@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# thecrbox - air purifier controller
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ready to use, drop-in hardware platform to convert a regular *CR box* to a smart air purifier
 
-## Commands
+![img](res/img/box.jpg){ width="128" }
+![img](res/img/panels.jpg){ width="128" }
+![img](res/img/pink.jpg){ width="128" }
+![img](res/img/ui.jpg){ width="128" }
+![img](res/img/ui2.jpg){ width="128" }
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+![type:video](https://www.youtube.com/embed/YB-TSE1S_LY)
 
-## Project layout
+## project status
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We're currently in the process of releasing diagrams and basic firmware for *thecrbox*.
+
+A small test-batch of pre-assembled devices is currently ready to be shipped, and will be mada available
+as soon as WiFi-provisioning and OTA will be tested.
+
+## resources
+
+- [schematics](https://github.com/thecrbox/hardware)
+- [reference firmware](https://github.com/thecrbox/firmware)
+- [this docs](https://github.com/thecrbox/docs)

@@ -4,3 +4,11 @@ repo_name: docs
 site_url: https://thecrbox.github.io
 theme:
     name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - mkdocs-video
