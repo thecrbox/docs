@@ -1,16 +1,8 @@
 {% extends "base.html" %}
 
 {% block extrahead %}{{ super() }}
-  <script type="module" src="{{ 'res/improv/launch-button.js' | url }}"></script>
+  <script type="module"
+          src="https://cdn.jsdelivr.net/npm/improv-wifi-sdk@1.4.0/dist/web/launch-button.js">
+  </script>
 
-  <script>
-    // show what the SDK is seeing
-    addEventListener('DOMContentLoaded', () => {
-      console.log('[BLE DEBUG]', {
-        isSecureContext: window.isSecureContext,
-        hasBluetooth: 'bluetooth' in navigator,
-        userAgent: navigator.userAgent
-      });
-    });
-  </script> 
 {% endblock %}

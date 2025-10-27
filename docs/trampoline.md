@@ -4,7 +4,7 @@
 
 To access all features (e.g. fine-tune the PID if needed), *thecrbox* must be accessible via Wi-Fi network you plan to control it with. 
 
-There’s no dedicated Android/iOS app—you’ll enter your Wi-Fi details during setup.
+There’s no dedicated Android/iOS app -- you’ll enter your Wi-Fi details during setup.
 
 ## Android (Improv over BLE)
 
@@ -20,7 +20,7 @@ There’s no dedicated Android/iOS app—you’ll enter your Wi-Fi details durin
 ## iPhone (manual via hotspot)
 
 1. In Wi-Fi settings, join the *box2-XXXX* network (this network has no internet; it’s only for setup)
-1. In Safari, open open: [http://192.168.4.1](http://192.168.4.1)` (note `http://`, not `https://`)
+1. In Safari, open open: [http://192.168.4.1](http://192.168.4.1) (**note:** `http://`, not `https://`)
 1. Enter your Wi-Fi name and password, then tap `Save`
 
 ## Tip
