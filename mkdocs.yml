@@ -13,6 +13,8 @@ markdown_extensions:
 
 plugins:
   - mkdocs-video
+  - search
+  - autorefs
 
 extra_javascript:
   - javascripts/improv-loader.js

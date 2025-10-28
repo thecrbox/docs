@@ -1,4 +1,4 @@
-# Connect *thecrbox* to your Wi-Fi
+# Wi-Fi provisioning { #provisioning }
 
 ## Why?
 
@@ -6,7 +6,13 @@ To access all features (e.g. fine-tune the PID if needed), *thecrbox* must be ac
 
 There’s no dedicated Android/iOS app -- you’ll enter your Wi-Fi details during setup.
 
-## Android (Improv over BLE)
+### What can go wrong?
+
+Wi-Fi names and passwords are case-sensitive.
+
+In case you entered wrong credentials and *thecrbox* does not join your network, you can always [force factory reset][user-interface-force-factory-reset] and try again.
+
+## Android (Improv over BLE) { #provisioning-android-improv }
 
 <improv-wifi-launch-button>
   <span slot="unsupported">Your browser doesn’t support Web Bluetooth. Use Chrome/Edge on desktop or Android.</span>
@@ -17,12 +23,11 @@ There’s no dedicated Android/iOS app -- you’ll enter your Wi-Fi details duri
 1. Click "Pair" (approve the pairing/permission prompt)
 1. Enter your Wi-Fi name and password, then tap `OK`
 
-## iPhone (manual via hotspot)
+## iPhone (manual via hotspot) { #provisioning-iphone-hotspot }
 
 1. In Wi-Fi settings, join the *box2-XXXX* network (this network has no internet; it’s only for setup)
 1. In Safari, open open: [http://192.168.4.1](http://192.168.4.1) (**note:** `http://`, not `https://`)
 1. Enter your Wi-Fi name and password, then tap `Save`
 
-## Tip
+![img](res/img/hotspot.png)
 
-Wi-Fi names and passwords are case-sensitive.
