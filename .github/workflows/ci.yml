@@ -28,4 +28,5 @@ jobs:
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-video
       - run: pip install mkdocs-autorefs
+      - run: pip install markdown-include
       - run: mkdocs gh-deploy --force

@@ -10,6 +10,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - markdown_include.include:
+      base_path: docs
 
 plugins:
   - mkdocs-video
@@ -18,3 +20,14 @@ plugins:
 
 extra_javascript:
   - javascripts/improv-loader.js
+
+nav:
+  - Home: index.md
+  - Usage:
+    - User interface: ui.md
+    - Wi-Fi provisioning:
+      - Provisioning overview: provisioning.md
+      - Provisioning with Android: provisioning/provisioning-android.md
+      - Provisioning with iPhone: provisioning/provisioning-iphone.md
+      - Provisioning with PC: provisioning/provisioning-pc-wifi.md
+      - Provisioning with laptop with Bluetooth and Chrome : provisioning/provisioning-pc-ble.md

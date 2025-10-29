@@ -1,6 +1,6 @@
-# home
+# Home
 
-## overview
+## What is it?
 
 *thecrbox* is ready to use, drop-in hardware platform which converts a regular *CR box* to a *smart air purifier*
 
@@ -12,14 +12,14 @@
 
 ![type:video](https://www.youtube.com/embed/YB-TSE1S_LY)
 
-## project status
+## Status
 
 We're currently in the process of releasing diagrams and basic firmware for *thecrbox*.
 
 A small test-batch of pre-assembled devices is currently ready to be shipped, and will be mada available
 as soon as WiFi-provisioning and OTA will be tested.
 
-## resources
+## Resources
 
 - [schematics](https://github.com/thecrbox/hardware)
 - [reference firmware](https://github.com/thecrbox/firmware)
