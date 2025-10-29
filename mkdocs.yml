@@ -23,10 +23,11 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Usage:
-    - User interface: ui.md
+  - Manual:
+    - User interface:
+      - Overview: ui.md
     - Wi-Fi provisioning:
-      - Provisioning overview: provisioning.md
+      - Overview: provisioning.md
       - Provisioning with Android: provisioning/provisioning-android.md
       - Provisioning with iPhone: provisioning/provisioning-iphone.md
       - Provisioning with PC: provisioning/provisioning-pc-wifi.md

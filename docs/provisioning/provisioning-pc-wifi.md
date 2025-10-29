@@ -4,7 +4,7 @@
 1. In any browser, open open: [http://192.168.4.1](http://192.168.4.1) (**note:** `http://`, not `https://`)
 1. Enter your Wi-Fi name and password, then tap `Save`
 
-![img](res/img/hotspot.png)
+![img](../res/img/hotspot.png)
 
 Hotspot will be shut down, and your PC should re-connect with your home wifi.
 
