@@ -1,1 +1,2 @@
-Your device is now ready, see [using web server][using-webserver] or [connect to HomeAssistant][using-homeassistant]
+Your device should now be ready.
+See how to use [use web server][ui-webserver] or [connect to HomeAssistant][ui-homeassistant]
