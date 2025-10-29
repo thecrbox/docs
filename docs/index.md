@@ -16,7 +16,7 @@
 
 We're currently in the process of releasing diagrams and basic firmware for *thecrbox*.
 
-A small test-batch of pre-assembled devices is currently ready to be shipped, and will be mada available
+A small test-batch of pre-assembled devices is currently ready to be shipped, and will be made available
 as soon as WiFi-provisioning and OTA will be tested.
 
 ## Resources
