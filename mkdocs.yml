@@ -26,6 +26,7 @@ nav:
   - Manual:
     - User interface:
       - Overview: ui.md
+      - Factory reset: ui/ui-factoryreset.md
     - Wi-Fi provisioning:
       - Overview: provisioning.md
       - Provisioning with Android: provisioning/provisioning-android.md

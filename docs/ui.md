@@ -1,3 +1,3 @@
-# user interface { #user-interface }
+# User interface { #user-interface }
 
-{!ui/ui-factoryreset.md!}
+- [factory reset][ui-factoryreset]
