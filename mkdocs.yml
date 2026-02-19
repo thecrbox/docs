@@ -1,7 +1,7 @@
 site_name: thecrbox
 repo_url: https://github.com/thecrbox/docs
 repo_name: docs
-site_url: https://thecrbox.github.io
+site_url: https://thecrbox.github.io/docs
 theme:
     name: material
     custom_dir: overrides
