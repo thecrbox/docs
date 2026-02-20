@@ -15,7 +15,7 @@ If you don't need Wi-Fi, you can [force your device into offline mode][ui-offlin
 Wi-Fi names and passwords are case-sensitive.
 
 In case you entered wrong credentials and *thecrbox* does not join your network, you can always
-[force factory reset][factoryreset] and try again.
+[force factory reset][ui-factoryreset] and try again.
 
 {!provisioning/provisioning-overview.md!}
 
