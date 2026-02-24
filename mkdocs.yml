@@ -10,6 +10,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - markdown_include.include:
       base_path: docs
 
@@ -20,6 +23,7 @@ plugins:
 
 extra_javascript:
   - javascripts/improv-loader.js
+  - javascripts/frame-anim.js
 
 nav:
   - Home: index.md
