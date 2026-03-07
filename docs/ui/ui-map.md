@@ -28,7 +28,7 @@ style="max-width:256px;width:100%;height:auto;"
     | 4    | go to step 1                      |                                                                         |                |
     
     
-## **_AUTO_** & **_MANUAL_** mode: selecting sensor data
+## **_AUTO_** & **_MANUAL_** mode: select sensor data
 
 !!! note inline
 
@@ -87,7 +87,7 @@ style="max-width:256px;width:100%;height:auto;"
     Additionally to the sensor value, display always shows current _fans speed_ and _RGBs brightness_.
     In **_MANUAL_** mode these values were selected by user and will not change on it's own.
 
-## **_MANUAL_** mode: setting fan speed
+## **_MANUAL_** mode: set fan speed
 
 !!! note inline
 
@@ -109,7 +109,7 @@ style="max-width:256px;width:100%;height:auto;"
 
     After setting _fans speed_ to desired value you can wait for some time or <br/>**_↓ short press_**<br/>**_↓ short press_** <br/>to save fans speed immediately
 
-## **_MANUAL_** mode: setting RGBs brightness
+## **_MANUAL_** mode: set RGBs brightness
 
 !!! note inline
 
@@ -131,3 +131,18 @@ style="max-width:256px;width:100%;height:auto;"
 
     After setting _RGBs brightness_ to desired value you can wait for some time or <br/>**_↓ short press_**<br/>to save fans speed immediately
 
+## **_AUTO_** mode: check day/night limits
+
+!!! note inline
+
+    **_↓ short press_**  <br/>to view current fan speed, rgb brightness limits, and day/night start time
+
+<img
+data-animate="list"
+data-dir="../../res/img/ui/"
+data-files="auto2.png,auto-settings-view.png,auto-settings-view.png,auto-settings-view.png,auto2.png"
+data-fps="1"
+data-end-pause="1"
+alt="Auto animation"
+style="max-width:256px;width:100%;height:auto;"
+/>

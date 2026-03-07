@@ -28,11 +28,12 @@ extra_javascript:
 nav:
   - Home: index.md
   - Manual:
-    - User interface:
-      - Overview: ui.md
+    - User interface: ui.md
+    - User interface details:
+      - UI map: ui/ui-map.md
       - Factory reset: ui/ui-factoryreset.md
-    - Wi-Fi provisioning:
-      - Overview: provisioning.md
+    - Wi-Fi provisioning: provisioning.md
+    - Wi-Fi provisioning details:
       - Provisioning with Android: provisioning/provisioning-android.md
       - Provisioning with iPhone: provisioning/provisioning-iphone.md
       - Provisioning with PC: provisioning/provisioning-pc-wifi.md
