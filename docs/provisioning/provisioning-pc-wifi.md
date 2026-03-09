@@ -1,11 +1,11 @@
-# PC or any device with WiFi (manual via hotspot) { #provisioning-pc-hotspot }
+# PC or Any Device with Wi-Fi (Manual via Hotspot) { #provisioning-pc-hotspot }
 
-1. In Wi-Fi settings, join the *box2-XXXX* network (this network has no internet; it’s only for setup)
-1. In any browser, open open: [http://192.168.4.1](http://192.168.4.1) (**note:** `http://`, not `https://`)
-1. Enter your Wi-Fi name and password, then tap `Save`
+1. In your Wi-Fi settings, join the *box2-XXXX* network. This network does not have an internet connection; it is for setup only.
+1. In any browser, open [http://192.168.4.1](http.168.4.1) (**Note:** Use `http://`, not `https://`).
+1. Enter your Wi-Fi name and password, then tap `Save`.
 
 ![img](../res/img/hotspot.png)
 
-Hotspot will be shut down, and your PC should re-connect with your home wifi.
+The hotspot will shut down, and your PC should reconnect to your home Wi-Fi network.
 
 {!provisioning-footer.md!}

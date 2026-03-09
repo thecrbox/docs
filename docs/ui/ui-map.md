@@ -20,14 +20,14 @@ style="max-width:256px;width:100%;height:auto;"
 
 ??? tip "Available modes list"
 
-    | Step | Display frame                     | Mode descritption                                                       | Encoder action |
+    | Step | Display frame                     | Mode description                                                        | Encoder action |
     |------|-----------------------------------|-------------------------------------------------------------------------|----------------|
     | 1    | ![img](../res/img/ui/off.png)     | Fans are off<br/>RGBs are off                                           | ⇓ long press   |
-    | 2    | ![img](../res/img/ui/auto1.png)   | Fans speed is controlled automatically<br/>RGBs represent AQI level     | ⇓ long press   |
-    | 3    | ![img](../res/img/ui/manual1.png) | Fans speed is set manually<br/>RGBs represent AQI level                 | ⇓ long press   |
+    | 2    | ![img](../res/img/ui/auto1.png)   | Fan speed is controlled automatically<br/>RGBs represent AQI level      | ⇓ long press   |
+    | 3    | ![img](../res/img/ui/manual1.png) | Fan speed is set manually<br/>RGBs represent AQI level                  | ⇓ long press   |
     | 4    | go to step 1                      |                                                                         |                |
-    
-    
+
+
 ## **_AUTO_** & **_MANUAL_** mode: select sensor data
 
 !!! note inline
@@ -56,7 +56,7 @@ style="max-width:256px;width:100%;height:auto;"
 
 <br/>
 
-??? tip "**_AUTO_** mode: available sensors list" 
+??? tip "**_AUTO_** mode: available sensors list"
 
     | Step | Display frame                   | Visible sensor / settings                                                                                                           | Encoder action |
     |------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------|
@@ -67,11 +67,11 @@ style="max-width:256px;width:100%;height:auto;"
     | 5    | ![img](../res/img/ui/auto5.png) | IP address of the **webserver**<br/><br/>fan speed(*=20%*)<br/>RGB brightness(*=25%*)                                               | ↺ rotate       |
     | 6    | go to step 1                    |                                                                                                                                     |                |
 
-    Additionally to the sensor value, display always shows current _fans speed_ and _RGBs brightness_.
+    In addition to the sensor value, the display always shows current _fan speed_ and _RGB brightness_.
     In **_AUTO_** mode:
-    
-    - _fans speed_ is controlled by purifier and depend on the pollution level, and time of day (e.g. lower max _fans speed_ at night)
-    - _RGBs brightness_ is controlled by purifier, and depends on time of day (e.g. lower brightness at night)
+
+    - _Fan speed_ is controlled by the purifier and depends on the pollution level and time of day (e.g., lower max _fan speed_ at night).
+    - _RGB brightness_ is controlled by the purifier and depends on the time of day (e.g., lower brightness at night).
 
 ??? tip "**_MANUAL_** mode: available sensors list"
 
@@ -84,8 +84,8 @@ style="max-width:256px;width:100%;height:auto;"
     | 5    | ![img](../res/img/ui/manual5.png) | IP address of the **webserver**<br/><br/>fan speed(*=82%*)<br/>RGB brightness(*=100%*)                                               | ↺ rotate       |
     | 6    | go to step 1                      |                                                                                                                                      |                |
 
-    Additionally to the sensor value, display always shows current _fans speed_ and _RGBs brightness_.
-    In **_MANUAL_** mode these values were selected by user and will not change on it's own.
+    In addition to the sensor value, the display always shows current _fan speed_ and _RGB brightness_.
+    In **_MANUAL_** mode, these values are selected by the user and will not change automatically.
 
 ## **_MANUAL_** mode: set fan speed
 
@@ -107,13 +107,13 @@ style="max-width:256px;width:100%;height:auto;"
 
 ??? tip "Confirming"
 
-    After setting _fans speed_ to desired value you can wait for some time or <br/>**_↓ short press_**<br/>**_↓ short press_** <br/>to save fans speed immediately
+    After setting the _fan speed_ to the desired value, you can wait or <br/>**_↓ short press_**<br/>**_↓ short press_** <br/>to save it immediately.
 
-## **_MANUAL_** mode: set RGBs brightness
+## **_MANUAL_** mode: set RGB brightness
 
 !!! note inline
 
-    **_↓ short press_** <br/>**_↓ short press_** <br/>**_↺ rotate_**<br/> to change _RGBS brightness_
+    **_↓ short press_** <br/>**_↓ short press_** <br/>**_↺ rotate_**<br/> to change _RGB brightness_
 
 <img
 data-animate="list"
@@ -129,7 +129,7 @@ style="max-width:256px;width:100%;height:auto;"
 
 ??? tip "Confirming"
 
-    After setting _RGBs brightness_ to desired value you can wait for some time or <br/>**_↓ short press_**<br/>to save fans speed immediately
+    After setting the _RGB brightness_ to the desired value, you can wait or <br/>**_↓ short press_**<br/>to save it immediately.
 
 ## **_AUTO_** mode: check day/night limits
 

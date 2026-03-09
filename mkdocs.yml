@@ -33,7 +33,7 @@ nav:
       - UI map: ui/ui-map.md
       - Factory reset: ui/ui-factoryreset.md
     - Wi-Fi provisioning: provisioning.md
-    - Wi-Fi provisioning details:
+    - Wi-Fi provisioning methods:
       - Provisioning with Android: provisioning/provisioning-android.md
       - Provisioning with iPhone: provisioning/provisioning-iphone.md
       - Provisioning with PC: provisioning/provisioning-pc-wifi.md
