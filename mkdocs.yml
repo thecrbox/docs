@@ -28,7 +28,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Manual:
-    - User interface: ui.md
+    - Quick start: ui.md
     - User interface details:
       - UI map: ui/ui-map.md
       - Factory reset: ui/ui-factoryreset.md
