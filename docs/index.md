@@ -4,13 +4,50 @@
 
 *thecrbox* is a ready-to-use, drop-in hardware platform that converts a regular *CR box* into a *smart air purifier*.
 
-![img](res/img/box.jpg){ width="128" }
-![img](res/img/panels.jpg){ width="128" }
-![img](res/img/pink.jpg){ width="128" }
-![img](res/img/ui.jpg){ width="128" }
-![img](res/img/ui2.jpg){ width="128" }
 
-![type:video](https://www.youtube.com/embed/YB-TSE1S_LY)
+<div class="grid" markdown>
+
+![img](res/img/gen/crbox-3fan.png)
+
+<img data-animate="list"
+  data-dir="res/img/gen/"
+  data-files="crbox-3fan-controller-small.png,crbox-3fan-controller-small-1.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-3.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-1.png"
+  data-fps="3" data-end-pause="0" alt="Auto animation" style="width:100%;height:auto;"
+/>
+
+</div>
+
+## What is included
+
+<div class="grid cards" markdown>
+
+-   ![img](res/img/gen/thecrbox-unit.png)
+
+    ---
+
+    controller board
+
+-   ![img](res/img/gen/sensiron.png)
+
+    ---
+
+    high quality environmental sensor
+
+-   ![img](res/img/gen/thecrbox-ui.png)
+
+    ---
+
+    interface board
+    
+-   ![img](res/img/gen/idc10.png)
+
+    ---
+
+    ribbon cable to connect controller and interface boards
+
+</div>
+
+
 
 ## Status
 
