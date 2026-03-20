@@ -7,11 +7,11 @@
 
 <div class="grid" markdown>
 
-![img](res/img/gen/crbox-3fan.png)
+![img](res/img/gen/crbox-3fan-flipped.png)
 
 <img data-animate="list"
   data-dir="res/img/gen/"
-  data-files="crbox-3fan-controller-small.png,crbox-3fan-controller-small-1.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-3.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-1.png"
+  data-files="crbox-3fan-controller-small-1.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-3.png,crbox-3fan-controller-small-4.png,crbox-3fan-controller-small-5.png,crbox-3fan-controller-small-6.png,crbox-3fan-controller-small-5.png,crbox-3fan-controller-small-4.png,crbox-3fan-controller-small-2.png,crbox-3fan-controller-small-1.png"
   data-fps="3" data-end-pause="0" alt="Auto animation" style="width:100%;height:auto;"
 />
 
