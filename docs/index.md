@@ -5,17 +5,15 @@
 *thecrbox* is a ready-to-use, drop-in hardware platform that converts a regular *CR box* into a *smart air purifier*.
 
 
-<div class="grid" markdown>
-
-![img](res/img/gen/crbox-3fan-flipped.jpg)
-
 <img data-animate="list"
-  data-dir="res/img/gen/"
-  data-files="crbox-3fan-controller-small-1.jpg,crbox-3fan-controller-small-2.jpg,crbox-3fan-controller-small-3.jpg,crbox-3fan-controller-small-4.jpg,crbox-3fan-controller-small-5.jpg,crbox-3fan-controller-small-6.jpg,crbox-3fan-controller-small-5.jpg,crbox-3fan-controller-small-4.jpg,crbox-3fan-controller-small-2.jpg,crbox-3fan-controller-small-1.jpg"
-  data-fps="3" data-end-pause="0" alt="Auto animation" style="width:100%;height:auto;"
+data-dir="res/img/gen/"
+data-files="crbox-3fan-controller-small-1.jpg,crbox-3fan-controller-small-2.jpg,
+            crbox-3fan-controller-small-3.jpg,crbox-3fan-controller-small-4.jpg,crbox-3fan-controller-small-5.jpg,
+            crbox-3fan-controller-small-6.jpg,crbox-3fan-controller-small-7.jpg,crbox-3fan-controller-small-8.jpg,crbox-3fan-controller-small-8.jpg,
+            crbox-3fan-controller-small-7.jpg,crbox-3fan-controller-small-6.jpg,crbox-3fan-controller-small-5.jpg,
+            crbox-3fan-controller-small-4.jpg,crbox-3fan-controller-small-2.jpg,crbox-3fan-controller-small-1.jpg,crbox-3fan.jpg"
+data-fps="9" data-end-pause="1.0" alt="Auto animation" style="width:100%;height:auto;"
 />
-
-</div>
 
 ## What is included
 
